@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!-- fork build: ci-trigger -->
   <!-- 不要直接修改这些选项，应通过 BuildOptions.props.user 或命令行参数覆盖 -->
   <PropertyGroup>
     <!-- 使用 clang-cl 编译 -->
